@@ -1,0 +1,1 @@
+# devops-DZ12.2-K8S-Objects-
